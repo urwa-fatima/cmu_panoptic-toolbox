@@ -50,7 +50,7 @@ for the full version of [171204_pose1](http://domedb.perception.cs.cmu.edu/17120
 You can also specify the number of videospanopticHDnt to donwload.
 
 ```
-./scripts/getData.sh (sequenceName) (VGA_Video_Number) (HD_Video_Number)
+./scripts/getData.sh (sequenceName) (VGA_Video_Number) (HD_Video_Number) (Specific_HD_Camera_Video)
 ```
 
 For example, the following command will download 240 vga videos and 10 videos.
